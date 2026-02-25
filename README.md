@@ -4,7 +4,7 @@ El repostiorio incluye:
 
 - Archivo pdf con la Hoja firmada y los ejercicios de PARTE I Y PARTE III
 - Ejercico practivo de PARTE IV
-- 
+  
 ---------------------------------------
 
 - José Andres Santos Mota
